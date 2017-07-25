@@ -1,0 +1,14 @@
+{
+  "name": "ssp-switcher-template",
+  "version": "1.0.0",
+  "description": "Ssp Switcher Template",
+  "scripts": {
+    "start": "ssp start",
+    "build": "ssp build"
+  },
+  "dependencies": {
+    "animejs": "^1.1.1",
+    "swiper": "^3.4.0",
+    "preloader.js": "^1.0.0"
+  }
+}
